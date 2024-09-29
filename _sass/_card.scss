@@ -1,0 +1,52 @@
+/* Custom card styles */
+.card {
+    background-color: #f0f0f0; /* Light grey background */
+    padding: 20px;
+    border-radius: 10px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1); /* Subtle shadow */
+    margin-bottom: 20px; /* Spacing between cards */
+    width: 100%; /* Ensure card takes full width */
+  }
+  
+  .card .container {
+    display: flex;
+    flex-direction: column; /* Ensure content is stacked vertically */
+    justify-content: flex-start;
+    align-items: flex-start;
+    width: 100%; /* Ensure container takes the full width */
+  }
+  
+  /* Adjust image inside the card */
+  .card img {
+    max-width: 100%; /* Ensure the image is responsive */
+    height: auto;
+    border-radius: 5px;
+    margin-bottom: 15px;
+  }
+  
+  /* Make the title bold and slightly larger */
+  .card h2 {
+    font-size: 1.5em;
+    font-weight: bold;
+    margin-bottom: 10px;
+    width: 100%; /* Ensure title takes full width */
+  }
+  
+  /* Space out the authors and other text */
+  .card p {
+    margin-bottom: 10px;
+    line-height: 1.6;
+    width: 100%; /* Ensure paragraphs take full width */
+  }
+  
+  /* Style for the "Read more" link */
+  .card a {
+    color: #007bff;
+    text-decoration: none;
+    font-weight: bold;
+  }
+  
+  .card a:hover {
+    text-decoration: underline;
+  }
+  
