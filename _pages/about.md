@@ -10,8 +10,6 @@ redirect_from:
 **Hello, I'm Anqiao!**  
 I'm a Maste's graduate at **ETH Zurich** in **Robotics, Systems, and Control** (2021–2025), mentored by [Prof. Marco Hutter](https://scholar.google.ch/citations?user=DO3quJYAAAAJ&hl=en). My passion for robotics flourished during my undergraduate years at **CKC Honors College, Zhejiang University** (2017–2021), where I was guided by [Prof. Rong Xiong](https://scholar.google.com/citations?user=1hI9bqUAAAAJ&hl=en) and [Prof. Qiuguo Zhu](https://ieeexplore.ieee.org/author/38238164400). My research focuses on enhancing the **mobility of legged robots** in challenging environments and improving their **manipulation** capabilities for interactive tasks.  
 
-======
-
 <!-- A data-driven personal website
 ======
 Like many other Jekyll-based GitHub Pages templates, Academic Pages makes you separate the website's content from its form. The content & metadata of your website are in structured markdown files, while various other files constitute the theme, specifying how to transform that content & metadata into HTML pages. You keep these various markdown (.md), YAML (.yml), HTML, and CSS files in a public GitHub repository. Each time you commit and push an update to the repository, the [GitHub pages](https://pages.github.com/) service creates static HTML pages based on these files, which are hosted on GitHub's servers free of charge.
