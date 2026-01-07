@@ -2,11 +2,12 @@
 layout: single
 title: "Citation for: Seeing Through the Grass"
 author_profile: true
+permalink: /files/citations/spf_cite.html
 ---
 
-<h1>Citation for: Seeing Through the Grass</h1>
+## Citation for: Seeing Through the Grass
 
-<p>Please use the following citation:</p>
+Please use the following citation:
 
 <pre>
 @ARTICLE{10265206,
@@ -21,5 +22,3 @@ author_profile: true
   doi={10.1109/LRA.2023.3320016}
 }
 </pre>
-
-<p><a href="/">Back to Home</a></p>
