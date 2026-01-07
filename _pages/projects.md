@@ -14,12 +14,12 @@ Here are some of my selected projects.
 <h2 style="margin-top: 0.25em;">Generative Model for Mobile Manipulation<br><span style="font-size: 0.75em; font-weight: normal;">( Master Thesis in ETH Zurich, Apr 2024 - Nov 2024)</span></h2>
 
 <div style="display: flex; gap: 1em; align-items: flex-start; flex-wrap: nowrap;">
-  <figure style="margin: 0; display: flex; flex-direction: column; align-items: center; flex: 1 1 0; min-width: 0;">
-    <a href="{{ '/images/projects/oven-opening-1.gif' | relative_url }}"><img src="{{ '/images/projects/oven-opening-1.gif' | relative_url }}" alt="Generative Model for Mobile Manipulation" style="width: auto; height: 184px; max-width: 100%; object-fit: contain; margin-bottom: 0.25em;"></a>
+  <figure style="margin: 0; display: flex; flex-direction: column; align-items: center; flex: 1 1 0; min-width: 0; justify-content: flex-start;">
+    <a href="{{ '/images/projects/oven-opening-1.gif' | relative_url }}" style="display: flex; align-items: center; justify-content: center; height: 184px;"><img src="{{ '/images/projects/oven-opening-1.gif' | relative_url }}" alt="Generative Model for Mobile Manipulation" style="max-height: 184px; max-width: 100%; width: auto; height: auto; object-fit: contain; margin-bottom: 0.25em;"></a>
     <figcaption style="margin-top: 0em; text-align: center; width: 100%;">Multi-modality robot kinematic plans from the generative model</figcaption>
   </figure>
-  <figure style="margin: 0; display: flex; flex-direction: column; align-items: center; flex: 1 1 0; min-width: 0;">
-    <a href="{{ '/images/projects/oven-opening-3.gif' | relative_url }}"><img src="{{ '/images/projects/oven-opening-3.gif' | relative_url }}" alt="Generative Model for Mobile Manipulation - GIF 2 (placeholder)" style="width: auto; height: 184px; max-width: 100%; object-fit: contain; margin-bottom: 0.25em;"></a>
+  <figure style="margin: 0; display: flex; flex-direction: column; align-items: center; flex: 1 1 0; min-width: 0; justify-content: flex-start;">
+    <a href="{{ '/images/projects/oven-opening-3.gif' | relative_url }}" style="display: flex; align-items: center; justify-content: center; height: 184px;"><img src="{{ '/images/projects/oven-opening-3.gif' | relative_url }}" alt="Generative Model for Mobile Manipulation - GIF 2 (placeholder)" style="max-height: 184px; max-width: 100%; width: auto; height: auto; object-fit: contain; margin-bottom: 0.25em;"></a>
     <figcaption style="margin-top: 0em; text-align: center; width: 100%;">Depth image-based generative model</figcaption>
   </figure>
 </div>
@@ -45,16 +45,16 @@ Here are some of my selected projects.
 <h2 style="margin-top: 0.25em;">Learning Forward Dynamics Model by Diffusion<br><span style="font-size: 0.75em; font-weight: normal;">(ETH Zurich, Aug 2023 - Dec 2023)</span></h2>
 
 <div style="display: flex; gap: 1em; align-items: flex-start; flex-wrap: nowrap;">
-  <figure style="margin: 0; display: flex; flex-direction: column; align-items: center; flex: 1 1 0; min-width: 0;">
-    <a href="{{ '/images/projects/diffusion-dynamics-1.jpg' | relative_url }}"><img src="{{ '/images/projects/diffusion-dynamics-1.jpg' | relative_url }}" alt="Learning Forward Dynamics Model by Diffusion - Real-world robot" style="height: 165px; width: auto; max-width: 100%; object-fit: contain; margin-bottom: 0.25em;"></a>
+  <figure style="margin: 0; display: flex; flex-direction: column; align-items: center; flex: 1 1 0; min-width: 0; justify-content: flex-start;">
+    <a href="{{ '/images/projects/diffusion-dynamics-1.jpg' | relative_url }}" style="display: flex; align-items: center; justify-content: center; height: 165px;"><img src="{{ '/images/projects/diffusion-dynamics-1.jpg' | relative_url }}" alt="Learning Forward Dynamics Model by Diffusion - Real-world robot" style="max-height: 165px; max-width: 100%; width: auto; height: auto; object-fit: contain; margin-bottom: 0.25em;"></a>
     <figcaption style="margin-top: 0em; text-align: center; width: 100%;">Simulate robot dynamics in the wild</figcaption>
   </figure>
-  <figure style="margin: 0; display: flex; flex-direction: column; align-items: center; flex: 1 1 0; min-width: 0;">
-    <a href="{{ '/images/projects/diffusion-dynamics-2.gif' | relative_url }}"><img src="{{ '/images/projects/diffusion-dynamics-2.gif' | relative_url }}" alt="Learning Forward Dynamics Model by Diffusion - Diffusion results" style="height: 165px; width: auto; max-width: 100%; object-fit: contain; margin-bottom: 0.25em;"></a>
+  <figure style="margin: 0; display: flex; flex-direction: column; align-items: center; flex: 1 1 0; min-width: 0; justify-content: flex-start;">
+    <a href="{{ '/images/projects/diffusion-dynamics-2.gif' | relative_url }}" style="display: flex; align-items: center; justify-content: center; height: 165px;"><img src="{{ '/images/projects/diffusion-dynamics-2.gif' | relative_url }}" alt="Learning Forward Dynamics Model by Diffusion - Diffusion results" style="max-height: 165px; max-width: 100%; width: auto; height: auto; object-fit: contain; margin-bottom: 0.25em;"></a>
     <figcaption style="margin-top: 0em; text-align: center; width: 100%;">Dynamics generated by Diffusion</figcaption>
   </figure>
-  <figure style="margin: 0; display: flex; flex-direction: column; align-items: center; flex: 1 1 0; min-width: 0;">
-    <a href="{{ '/images/projects/diffusion-dynamics-3.gif' | relative_url }}"><img src="{{ '/images/projects/diffusion-dynamics-3.gif' | relative_url }}" alt="Learning Forward Dynamics Model by Diffusion - Ground truth" style="height: 165px; width: auto; max-width: 100%; object-fit: contain; margin-bottom: 0.25em;"></a>
+  <figure style="margin: 0; display: flex; flex-direction: column; align-items: center; flex: 1 1 0; min-width: 0; justify-content: flex-start;">
+    <a href="{{ '/images/projects/diffusion-dynamics-3.gif' | relative_url }}" style="display: flex; align-items: center; justify-content: center; height: 165px;"><img src="{{ '/images/projects/diffusion-dynamics-3.gif' | relative_url }}" alt="Learning Forward Dynamics Model by Diffusion - Ground truth" style="max-height: 165px; max-width: 100%; width: auto; height: auto; object-fit: contain; margin-bottom: 0.25em;"></a>
     <figcaption style="margin-top: 0em; text-align: center; width: 100%;">Ground Truth Dynamics</figcaption>
   </figure>
 </div>
