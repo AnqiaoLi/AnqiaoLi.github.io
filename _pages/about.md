@@ -8,7 +8,7 @@ redirect_from:
 ---
 
 **Hello, I'm Anqiao!**  
-I'm a Maste's graduate at **ETH Zurich** in **Robotics, Systems, and Control** (2021–2025), mentored by [Prof. Marco Hutter](https://scholar.google.ch/citations?user=DO3quJYAAAAJ&hl=en). My passion for robotics flourished during my undergraduate years at **CKC Honors College, Zhejiang University** (2017–2021), where I was guided by [Prof. Rong Xiong](https://scholar.google.com/citations?user=1hI9bqUAAAAJ&hl=en) and [Prof. Qiuguo Zhu](https://ieeexplore.ieee.org/author/38238164400). My research focuses on enhancing the **mobility of legged robots** in challenging environments and improving their **manipulation** capabilities for interactive tasks.  
+I'm a Master's graduate at **ETH Zurich** in **Robotics, Systems, and Control** (2021–2025), mentored by [Prof. Marco Hutter](https://scholar.google.ch/citations?user=DO3quJYAAAAJ&hl=en). My passion for robotics flourished during my undergraduate years at **CKC Honors College, Zhejiang University** (2017–2021), where I was guided by [Prof. Rong Xiong](https://scholar.google.com/citations?user=1hI9bqUAAAAJ&hl=en) and [Prof. Qiuguo Zhu](https://ieeexplore.ieee.org/author/38238164400). My research focuses on enhancing the **mobility of legged robots** in challenging environments and improving their **manipulation** capabilities for interactive tasks.  
 
 <!-- A data-driven personal website
 ======
